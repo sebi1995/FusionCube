@@ -1,0 +1,16 @@
+#dirfile-nav {
+	border: 1px solid black;
+}
+#dirfile-nav > li {
+	border: 1px solid black;
+}
+
+#dirfile-nav > li > ul {
+	border: 1px solid blue;
+	display: none;
+	overflow: hidden;
+}
+#dirfile-nav > li:hover > ul {
+	height: 80px;
+	display: block;
+}

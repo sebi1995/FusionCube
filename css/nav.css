@@ -1,0 +1,32 @@
+#sub_nav > nav {
+	width: 100%;
+}
+#sub_nav > nav > ul {
+	float: left;
+	width: inherit;
+	background: white;
+}
+#sub_nav > nav > ul > li {
+	width: 20%;
+	float: left;
+	list-style: none;
+	text-align: center;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+}
+	#sub_nav > nav > ul > li:hover {
+		background: lightgrey;
+	}
+
+	#sub_nav > nav > ul > li > a {
+		height: 25px;
+		text-decoration: none;
+		color: black;
+		width: 100%;
+		padding: 7px 0 0 0;
+		float: left;
+		border-top-right-radius: 20px;
+		border-top-left-radius: 20px;
+	}
+	
+	

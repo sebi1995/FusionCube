@@ -1,0 +1,137 @@
+::1, 02:17:20pm, 19/10/15, username entered is not in email format, login 
+
+::1, 02:17:57pm, 19/10/15, username entered is not in email format, login 
+
+::1, 02:18:03pm, 19/10/15, username entered is not in email format, login 
+
+::1, 02:18:08pm, 19/10/15, username entered is not in email format, login 
+
+::1, 02:18:09pm, 19/10/15, username entered is not in email format, login 
+
+::1, 02:18:28pm, 19/10/15, username entered is not in email format, login 
+
+::1, 08:04:10am, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:04:26am, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:04:59am, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:05:05am, 21/10/15, more than 3 login attempts with wrong data, login 
+
+::1, 08:05:09am, 21/10/15, more than 3 login attempts with wrong data, login 
+
+::1, 08:05:10am, 21/10/15, more than 3 login attempts with wrong data, login 
+
+::1, 08:05:43am, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:05:48am, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:06:50am, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 01:56:51pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 01:56:57pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:03:03pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:03:43pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:03:46pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:04:18pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:04:21pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:04:38pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:07:27pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:08:04pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:08:32pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:22:38pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:22:49pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:22:56pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:23:03pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:29:38pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:30:26pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:32:04pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:33:13pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:33:35pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:33:37pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 02:33:39pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:36:29pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:36:34pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:42:18pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:43:06pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:44:41pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:44:48pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:54:57pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:56:12pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:56:28pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:57:50pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:57:57pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:58:02pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:58:15pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:59:40pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:59:45pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:59:51pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:00:28pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:00:33pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:00:38pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:01:08pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:01:13pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:01:21pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:01:25pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:01:30pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:01:35pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:04:09pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 08:47:32pm, 21/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 04:22:24pm, 22/10/15, username and password does not match any of the ones on the database, login 
+
+::1, 07:26:13pm, 27/10/15, username and password does not match any of the ones on the database, login 
+::1, 07:27:48pm, 27/10/15, username and password does not match any of the ones on the database, login 
+::1, 07:27:53pm, 27/10/15, username and password does not match any of the ones on the database, login 
+::1, 07:27:57pm, 27/10/15, username and password does not match any of the ones on the database, login 
+::1, 07:28:08pm, 27/10/15, username and password does not match any of the ones on the database, login 
+::1, 07:28:23pm, 27/10/15, username and password does not match any of the ones on the database, login 
+::1, 07:28:28pm, 27/10/15, username and password does not match any of the ones on the database, login 

@@ -1,0 +1,35 @@
+#sub_form > form > .form_intitle{
+	text-align: center;
+	height: 35px;
+	padding: 2.5px 0 2.5px 0;
+	font-size: 30px;
+	margin: 10px 0 5px 0;
+}
+#sub_form > form > div:nth-child(3),#sub_form > form > div:nth-child(1){margin-top: 20px;}
+#sub_form > form > .form_input{
+	height: 30px;
+	text-align: center;
+	margin: 5px 0 10px 0;
+}
+	#sub_form > form > .form_input > input{
+		height: 100%;
+		width: 70%;
+		font-size: 22px;
+		color: grey;
+		text-align: center;
+	}
+#sub_form > form > #login_btn{
+	margin: 20px 0 10px 0;
+	text-align: center;
+}
+#sub_form > form > #login_btn > input{
+	width: 100px;
+	height: 30px;
+}
+#sub_form > form > #login_msg {
+	margin: 10px 0 10px 0;
+	width: 80%;
+	margin: 0 auto;
+	height: 90px;
+	overflow: auto;
+}

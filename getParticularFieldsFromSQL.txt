@@ -1,0 +1,17 @@
+<?php
+$user = "admin@admin.com";
+require_once('website_data_collecting/db.php');
+$sql = "SELECT user_name FROM user_login WHERE user_email = '$user'";	
+
+$result = $con->query($sql);
+$msql_name = $result->fetch_assoc();
+echo $msql_name['user_name'];
+$sql_fname = $msql_name['user_name'];
+
+
+$sql1 = "SELECT user_surname FROM user_data WHERE user_name = '$sql_fname'";
+$result1 = $con->query($sql1);
+$msql_sname = $result1->fetch_assoc();
+echo $msql_sname['user_surname'];
+$con->close();
+?>

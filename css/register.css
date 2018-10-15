@@ -1,0 +1,72 @@
+#sub_form > label{
+	width: 60px;
+	height: 25px;
+	float: right;
+	margin: 10px 30px 10px 0;
+	background: lightgrey;
+	text-align: center;
+	padding: 3px;
+}
+#sub_form > form{
+	height: 98%;
+	overflow: auto;
+}
+#sub_form > form > div:first-child > select{
+	margin: 0 0 0 5px;
+	font-size: 20px;
+	width: 55.4%;
+	padding: 4.5px;
+}
+#sub_form > form > div:first-child > select > option{
+	width: 96%;
+	padding: 0 0 0 4%;
+	font-size: 20px;
+}
+#sub_form > form > div{
+	width: 90%;
+	height: 35px;
+	margin: 5px auto;
+}
+#sub_form > form > div > label{
+	float: left;
+	height: 15px;
+	padding: 10px;
+	font-size: 16px;
+	width:31%;
+	background: lightgrey;
+}
+#sub_form > form > div > input{
+	float: left;
+	width: 55%;
+	height: 30px;
+	margin: 0 0 0 5px;
+	font-size: 20px;
+	text-align: center;
+	padding: 1.5px 0 1.5px 0;
+}
+#sub_form > form > div:nth-child(7){
+	height: auto;
+	color: red;
+	margin: 5px auto 5px auto;
+	width: 80%;
+	height: 72px;
+	overflow: auto;
+	text-align: left;
+}
+#sub_form > form > div > div{
+	float: left;
+	width: 6%;
+	height: 30px;
+	text-align: center;
+	padding: 5px 0 0 0;
+	margin: 0 0 0 5px;
+}
+#sub_form > form > #register_btn{
+	border: 0;
+	background: lightgrey;
+	font-size: 16px;
+	width: 80px;
+	height: 30px;
+	margin: 0 10px 0 0;
+	float: right;
+}
